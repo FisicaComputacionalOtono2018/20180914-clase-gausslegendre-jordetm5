@@ -25,3 +25,5 @@ for i in range (0,n):
 
 y=float(y.subs(x,r))
 
+print("con el polinomio de grado ",n,", P(",r,")=",P(y,n))
+
